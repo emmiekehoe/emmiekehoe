@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
   - backend, user experience
   - NLP, NLU
-- In my free time, I enjoy baking 🍪  and 🏃🏻‍♀️ 
+- In my free time, I enjoy baking 🍪  and running 🏃🏻‍♀️ 
 - 📫 How to reach me:
   - email: emmiekehoe@gmail.com
 
