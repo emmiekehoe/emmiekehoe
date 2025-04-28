@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @emmiekehoe 👩🏻
 - 👀 I’m interested in:
-  - backend, user experience, 
-  - NLP and NLU
-- In my free time I enjoy baking 🍪  and 🏃🏻‍♀️ 
+  - backend, user experience
+  - NLP, NLU
+- In my free time, I enjoy baking 🍪  and 🏃🏻‍♀️ 
 - 📫 How to reach me:
   - email: emmiekehoe@gmail.com
 
